@@ -1,5 +1,6 @@
 window.onload=function(){
     var httpRequest;
+    httpRequest = new XMLHttpRequest();
     
     function searchAll() {
 
